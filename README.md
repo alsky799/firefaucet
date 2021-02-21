@@ -1,0 +1,2 @@
+# firefaucet
+auto claim firefaucet
